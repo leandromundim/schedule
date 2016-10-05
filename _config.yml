@@ -1,1 +1,5 @@
-permalink: schedule/
+# Site settings
+title: Mundim da Educação
+description: Plataforma de cursos
+baseurl: "/schedule" # the subpath of your site, e.g. /blog
+url: "https://leandromundim.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
