@@ -2,7 +2,7 @@
 require 'singularitygs'
 
 # Basic Compass stuff
-http_path = "/"
+http_path = "schedule/"
 css_dir = "css"
 sass_dir = "_sass"
 images_dir = "img"
